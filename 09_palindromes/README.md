@@ -16,4 +16,6 @@ palindromes('racecar') // true
 palindromes('tacos') // false
 ```
 
-
+# Notes
+- A palindrome is a word that is the same when read backwards
+- You solve it by converting the string to lowercase then reversing it
